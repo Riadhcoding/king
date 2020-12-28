@@ -1,6 +1,9 @@
 # ♛ king ♛
 #  The strongest encryption tool in the world
 
+# Free trial ♻
+
+# $ 5 💰 price for the source code
 
 
 ## Find Me on :
@@ -24,4 +27,3 @@
 
 
  
-# $ 5 💰 price for the source code
