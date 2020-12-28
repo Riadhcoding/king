@@ -14,7 +14,7 @@
 # Buy me coffee starting at $ 1 via PayPal
 
 [<code>
-<img alt="by me" width="200px" src="python-life/icon/by.png" />
+<img alt="by me" width="200px" src="https://github.com/python-life/python-life/blob/main/icon/by.png" />
 </code>](https://www.paypal.me/riadhat31)
 
 
